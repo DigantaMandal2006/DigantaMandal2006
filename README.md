@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Diganta%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://github.com/DigantaMandal2006.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6a11cb;"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Diganta%20Mandal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20and%20ML%20Developer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/digantamandal2006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/Diganta_Mandal_"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
@@ -12,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+Machine+Learning+Engineer;Turning+Ideas+into+Intelligent+Systems;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" align="center"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+and+ML)+Student;Aspiring+Machine+Learning+Engineer;Turning+Ideas+into+Intelligent+Systems;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" align="center"/>
 
 <br/><br/>
 
@@ -20,7 +24,7 @@
 
 ```yaml
 name: Diganta Mandal
-role: B.Tech CSE (AI & ML) Student
+role: B.Tech CSE (AI and ML) Student
 university: Brainware University, India
 focus: [Machine Learning, Data Science, Software Development]
 looking_for: [AI/ML Roles, Open Source Collaboration, Full-Stack Projects]
@@ -80,7 +84,7 @@ fun_fact: "Codes better with music on 🎧"
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DigantaMandal2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DigantaMandal2006&theme=tokyonight&column=4&no-frame=true"/>
 </div>
 
 ---
@@ -90,8 +94,6 @@ fun_fact: "Codes better with music on 🎧"
 <div align="center">
 
 ### 💬 Always up for a chat about AI, ML, or cool side-projects
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/digantamandal2006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/Diganta_Mandal_"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
