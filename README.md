@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Machine+Learning+%7C+Data+Science+Enthusiast;Software+Engineer+in+the+Making;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" align="center"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+Student;Aspiring+Machine+Learning+Engineer;Turning+Ideas+into+Intelligent+Systems;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" align="center"/>
 
 <br/><br/>
 
@@ -41,7 +41,9 @@ fun_fact: "Codes better with music on 🎧"
 
 **Frameworks & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,anaconda,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,anaconda,git,vscode&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 <br/><br/>
 
@@ -87,25 +89,15 @@ fun_fact: "Codes better with music on 🎧"
 
 <div align="center">
 
-### 💬 Always up for a chat about **AI, ML, or cool side-projects**
+### 💬 Always up for a chat about AI, ML, or cool side-projects
 
-<br/>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/digantamandal2006/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/Diganta_Mandal_">
-  <img src="https://img.shields.io/badge/X-Follow%20me-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="mailto:digantamandal867@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/digantamandal2006/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Diganta_Mandal_"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:digantamandal867@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
-
-> *"Turning ideas into intelligent, real-world solutions."*
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 
