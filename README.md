@@ -84,8 +84,10 @@ fun_fact: "Codes better with music on 🎧"
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DigantaMandal2006&theme=tokyonight&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DigantaMandal2006&theme=onedark&no-frame=true"/>
 </div>
+
+<!-- Agar upar wala nahi dikhe to service abhi down hai, kuch din baad try karna -->
 
 ---
 
