@@ -1,4 +1,31 @@
+<h1 align="center">Hi 👋, I'm Diganta Mandal</h1>
+<h3 align="center">B.Tech CSE (AI & ML) Student | Aspiring Software Engineer | AI & Data Science Enthusiast</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
+- 🏫 Brainware University, India
+- 💡 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Data Science
+- 💻 Building real-world projects using **Python, Java, SQL, OpenCV, Machine Learning, and Data Analytics**
+- 🚀 Preparing for Software Engineering and AI/ML roles
+- 🤝 Open to collaborating on Open Source, AI, Python, and Full-Stack projects
+- 📫 Reach me at **https://www.linkedin.com/in/digantamandal2006/**
+- ⚡ Fun Fact: II love listening to music.
+
+---
+
+## 🎯 Current Focus
+
+- 📚 Mastering Data Structures & Algorithms
+- 🤖 Developing AI & Machine Learning projects
+- 📊 Exploring Data Analytics and Visualization
+- ☁️ Learning Cloud Computing
+- 🌐 Contributing to Open Source
+- 💼 Preparing for Software Engineering Placements
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/digantamandal2006) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Diganta_Mandal_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:digantamandal867@gmail.com) 
 
