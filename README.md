@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/DigantaMandal2006.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6a11cb;"/>
+<img src="https://images.weserv.nl/?url=github.com/DigantaMandal2006.png&h=150&w=150&fit=cover&mask=circle" width="150"/>
 
 <br/><br/>
 
